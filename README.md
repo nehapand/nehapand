@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Giri's github stats](https://github-readme-stats.vercel.app/api?username=pgirikishore&count_private=true)](https://github.com/pgirikishore/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgirikishore)](https://github.com/pgirikishore/github-readme-stats)
