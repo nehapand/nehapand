@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Giri's github stats](https://github-readme-stats.vercel.app/api?username=pgirikishore&count_private=true&hide=PHP)](https://github.com/pgirikishore/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgirikishore&layout=compact)](https://github.com/pgirikishore/github-readme-stats)
+<!--[![Giri's github stats](https://github-readme-stats.vercel.app/api?username=pgirikishore&count_private=true&hide=PHP)](https://github.com/pgirikishore/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgirikishore&layout=compact)](https://github.com/pgirikishore/github-readme-stats)-->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+<!--![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
 [![HitCount](http://hits.dwyl.com/pgirikishore/{project}.svg)](http://hits.dwyl.com/pgirikishore/{project})
+-->
